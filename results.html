@@ -14,7 +14,7 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: black;
+  background-color: grey;
   color: white;
   text-align: center;
 }
@@ -22,7 +22,7 @@
 
 <!-- Sidebar on click -->
 <nav class="w3-sidebar w3-bar-block w3-white w3-card w3-animate-left w3-xxlarge" style="display:none;z-index:2" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-display-topright w3-text-teal">Close
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-display-topright w3-text-red">Close
     <i class="fa fa-remove"></i>
   </a>
   <a href="president.html" class="w3-bar-item w3-button">President</a>
@@ -89,16 +89,16 @@
 <!-- Modal -->
 <div id="id01" class="w3-modal">
   <div class="w3-modal-content w3-card-4 w3-animate-top">
-    <header class="w3-container w3-teal w3-display-container"> 
-      <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-teal w3-display-topright"><i class="fa fa-remove"></i></span>
+    <header class="w3-container w3-red w3-display-container"> 
+      <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-red w3-display-topright"><i class="fa fa-remove"></i></span>
       <h4>Oh snap! We just showed you a modal..</h4>
       <h5>Because we can <i class="fa fa-smile-o"></i></h5>
     </header>
     <div class="w3-container">
       <p>Cool huh? Ok, enough teasing around..</p>
-      <p>Go to our <a class="w3-text-teal" href="/w3css/default.asp">W3.CSS Tutorial</a> to learn more!</p>
+      <p>Go to our <a class="w3-text-red" href="/w3css/default.asp">W3.CSS Tutorial</a> to learn more!</p>
     </div>
-    <footer class="w3-container w3-teal">
+    <footer class="w3-container w3-red">
       <p>Modal footer</p>
     </footer>
   </div>
@@ -107,54 +107,42 @@
 
 <div class="w3-container w3-padding-64" id="team">
 <div class="w3-content" style="max-width:800px">
-	<h2>Welcome to the website for the SIPTA Elections 2019!</h2>
+	<h2 >Results of SIPTA elections 2019</h2>
 	<br>
-	<h3> 
-	<a href="results.html" style="color:red">The results of the SIPTA 2019 elections are out.</a></h3>
+	<p class="w3-large">The following members have been elected for 
+	the new Executive Committee:</p>
 	<br>
-	<p class="w3-large">You can find the <a href="http://www.sipta.org/" style="color:red">SIPTA</a>
-    by-laws, according to which these elections are organised, 
-    <a href="http://www.sipta.org/index.php?id=soc&sub=by" style="color:red">here</a>.</p>
-      <br>
-      <p class="w3-large">There are 5 offices 
-      (President, Secretary, Treasurer, Executive editor, and At-large member):</p>
-	<p class="w3-large">For the office of President, there is 1 candidate, of which 1 must be elected: 
-	<a href="jasper.html" style="color:red">Jasper De Bock</a>.</p>
-	<p class="w3-large">For the office of Secretary, there is 1 candidate, of which 1 must be elected: 
-	<a href="matthias.html" style="color:red">Matthias Troffaes</a>.</p>
-	<p class="w3-large">For the office of Treasurer, there is 1 candidate, of which 1 must be elected: 
-	<a href="alessandro.html" style="color:red">Alessandro Antonucci</a>.</p>
-	<p class="w3-large">For the office of Executive editor, there are 2 candidates, 
-	of which 1 must be elected: 
-	<a href="alexander.html" style="color:red">Alexander Erreygers</a> and
-	 <a href="ignacio.html" style="color:red">Ignacio Montes</a>.</p>
-	<p class="w3-large">For At-large members, there are 9 candidates, of which 5 must be elected: 
-	<a href="jasper.html" style="color:red">Jasper de Bock</a>, 
-	<a href="cassio.html" style="color:red">Cassio de Campos</a>, 
+	
+	<table>
+  <tr>
+    <td>President: </td>
+    <td><a href="jasper.html" style="color:red">Jasper De Bock</a></td>
+  </tr>
+  <tr>
+    <td>Secretary: </td>
+    <td><a href="matthias.html" style="color:red">Matthias Troffaes</a></td>
+  </tr>
+  <tr>
+    <td>Treasurer: </td>
+    <td><a href="alessandro.html" style="color:red">Alessandro Antonucci</a></td>
+  </tr>
+  <tr>
+    <td>Executive editor: </td>
+    <td><a href="ignacio.html" style="color:red">Ignacio Montes</a></td>
+  </tr>
+  <tr>
+    <td>At-large members: </td>
+    <td><a href="cassio.html" style="color:red">Cassio de Campos</a>, 
 	<a href="gert.html" style="color:red">Gert de Cooman</a>, 
 	<a href="sebastien.html" style="color:red">Sébastien Destercke</a>, 
-	<a href="alexander.html" style="color:red">Alexander Erreygers</a>, 
-	<a href="enrique.html" style="color:red">Enrique Miranda</a>, 
-	<a href="ignacio.html" style="color:red">Ignacio Montes</a>, 
-	<a href="ullrika.html" style="color:red">Ullrika Sahlin</a> and 
-	<a href="georg.html" style="color:red">Georg Schollmeyer</a>. </p>
-	<br>
-	<p class="w3-large">The voting period is from 10 May 2019 till 10 June 2019.</p>
-	<br>
-	<p class="w3-large">In case of any questions, please contact 
-	<a href="mailto:siptaelections2019@gmail.com" style="color:red">here</a>.</p>
-	<br>
-	<p class="w3-large">Kind regards,</p>
-	<p class="w3-large">Tathagata Basu, Patrick Schwaferts & Arthur Van Camp</p>
+	<a href="enrique.html" style="color:red">Enrique Miranda</a> and 
+	<a href="georg.html" style="color:red">Georg Schollmeyer</a></td>
+  </tr>
+</table>
 
 </div>
 </div>
 
-<!-- Footer -->
-<div class="footer">
-    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
-
-</div>
 
 <script>
 // Script for side navigation
