@@ -1,0 +1,109 @@
+Henna Bains
+-----------
+
+Position: At-Large
+
+My name is Henna Bains, and I'm in the final stages of a PhD in the Department of Engineering at Durham University. In 2017, I completed an MMath degree in the Department of Mathematical Sciences at Durham University. Shortly after, I started my PhD and have recently (February 2021) submitted my thesis. I am excited to take the work of my PhD forward in a follow-on project, which is due to start in the near future. I am also a member of the ISIPTA 2021 Program committee.
+
+I work on a multidisciplinary project, collaborating with the Department of Engineering, Department of Mathematical Sciences and industry. This project develops a novel power system planning tool to support decisions on offshore transmission assets taken under severe uncertainty due to limited information. My research interests are around decision-making under severe uncertainty, imprecise continuous time Markov chains, and particularly, the application of imprecise probability techniques to practical problems.
+
+I would like to run for the position of an at-large member. I hope to bring the following to SIPTA: my dependability, my enthusiasm for the application of imprecise probability techniques, and support the increased visibility of imprecise probability. I hope my candidature will be considered for this role as I believe I can provide valuable inputs to SIPTA.
+
+Arianna Casanova
+----------------
+
+Position: Treasurer
+
+I am Arianna Casanova, PhD student at IDSIA in Lugano under the supervision of prof. Marco Zaffalon. My research focuses on desirability, its generalization including nonlinear utility considerations and its use as a unifying formalism for different research fields founded on rationality and logic, such as, social choice, opinion pooling and information algebras. I am interested in applying for the position of Treasurer in the next SIPTA Executive Committee. It could represent a great opportunity for my personal and professional growth, offering me the possibility to interact with experienced researchers in my field.
+
+Jasper De Bock
+--------------
+
+Position: President, At-Large
+
+In my current presidency term, I focus(sed) on improving the inner workings of SIPTA. I was fortunate to have an Executive Committee (EC) that was willing to put a lot of work in, and I’m happy to report that this payed off. We can finally deal with our finances online, our website is now modernized and mobile compatible (or will soon be, depending on when you read this), we’ll (vote to) update our society’s articles during the next ISIPTA, we now have our own independent server and mailing server, and our administration has been cleaned out and structured. A massive thank you goes out to the EC members that helped make this possible (and even some people outside the EC).
+
+
+I must admit though that this wasn’t my original plan. Instead, the original plan was to set up a communication strategy that reaches out to new communities in a refreshing and professional way, and to expand our community in this (and other) way(s). But such plans make little sense, I think, if the foundations aren’t there. For example, in my view, there is no point in reaching out to new members on a large scale if the website you intend to refer them to is outdated, and if the mailing list you have has technical limitations. When I came to realize that we weren’t sufficiently covering our bases yet, I therefore changed plans, and decided to focus on our inner workings first.
+
+
+Two years later, I think we now do have most of the foundations in place (or are at least making good progress on that front), and I’d therefore like to get back to my original plan of growing SIPTA. Basically, I’d like to set up a system that is able to advertise SIPTA and imprecise probabilities outside our own community, in a way that is modern, maintainable, and does not rely (solely) on ad hoc initiatives of subsequent ECs. Other than that, I’d also like to continue and finish organizing our inner workings. There is also the issue that our society isn’t registered. During the past two years, it became clear to me that this creates a number of important limitations. On the other hand, it also has some clear advantages. The issue is, overall, quite complicated, and involves a number of legal matters. If we were to make a change in this respect, it would take time, and the debate and process would have to be initiated early on in a two-year EC term. I’d like to open that debate. And then finally, but this is a long shot, I’d like to work together with other uncertainty communities to investigate the possibility of setting up a sponsored funding scheme for research events on uncertainty, including IP, similarly to the existing scheme for AI (https://aij.ijcai.org/funding-opportunities-for-promoting-ai-research/) that is sponsored by Elsevier.
+
+
+If you like these ideas, and are willing to give me the chance to try and develop them, then I’d be happy to take on a second term as president of SIPTA. If not, I’ll gladly spend some more time in my garden, in which case I’d be happy to still serve the SIPTA society as an at-large member of its EC, and perhaps execute part of the ideas above, if the new president deems them to be worthwhile.
+
+CV
+
+Jasper De Bock is an Assistant Professor in the Department of Electronics and Information Systems at Ghent University, and a member of the Foundations Lab for Imprecise Probabilities. He is the current president of SIPTA, and has been part of the SIPTA EC since 2015. His research is concerned with the foundations of imprecise probabilities and their application to robust inference and decision making, with a particular focus on imprecise stochastic processes, imprecise Markov chains, choice functions, credal networks and imprecise randomness. He has published more than 20 journal papers and 30 conference papers on these topics. More information is available on his website: https://users.ugent.be/~jdbock/
+
+Cassio De Campos
+----------------
+
+Position: Executive Editor, At-Large
+
+Cassio obtained his degrees from the University of Sao Paulo (Brazil), where he studied both at the Institute of Mathematics and Statistics and the Department of Mechatronics. He also obtained a Senior Research Qualification from Utrecht University (2018), Senior Member of ACM (2019), and elected member of the executive board of sipta.org (since 2011). His habilitation and doctorate theses were carried out on the topic of Uncertainty in Artificial Intelligence, in particular related to robust and interpretative machine learning models. He works on foundations of artificial intelligence and statistical machine learning, including probabilistic graphical models, imprecise probability, and computational complexity. In 2006, Cassio was an Assistant Professor at the University of Sao Paulo (Brazil). In 2007-08, he was a visiting research fellow at the Rensselear Polytechnic Institute (USA). From 2008 to 2014, he was a (senior) researcher at the Dalle Molle Institute in Switzerland. From 2014 to 2017, he was a Reader at Queen’s University Belfast (UK), and later an Associate Professor at Utrecht University, before joining TU Eindhoven in 2019. Cassio has served as panelist of multiple research foundations and senior committee/area chair of major AI/ML conferences. He participated in the organisation of ISIPTAs, and he is program chair of UAI 2021. Cassio will serve as UAI general chair in 2022. His goal with the SIPTA appointment is to make credal models a key concept in reliable/cautious machine learning, explainable AI and causality, areas that have been growing considerably in the last few years.
+
+Alexander Erregeyers
+--------------------
+
+Position: Executive Editor, At-Large
+
+I am a PhD student at Ghent University, more precisely at the Foundations Lab for imprecise probabilities, in the sixth and final year of my PhD. Most of my research has been on continuous-time Markov chains, and it is this work that I am currently forging into a single coherent narrative for my dissertation. More bi(bli)ographical information is available on [my website](https://users.ugent.be/~aerreyge/).
+
+I became acquainted with SIPTA at my first ISIPTA conference, back in 2015. Since then, I have not missed an ISIPTA conference, and I have also attended two SIPTA Summer Schools and participated in several editions of WPMSIIP. Two years ago, I got the chance to experience what it means to be on the organizing side of things for a SIPTA event: I was a member of the local organizing committee for the previous edition of ISIPTA, which took place in Ghent. One of my duties as a member of the local organizing committee of ISIPTA 2019 was to set-up and manage the [conference website](http://www.sipta.org/isipta19/).
+
+I liked working on the website of ISIPTA 2019, so I did not have to hesitate when I was asked to participate in a collective effort to modernise the SIPTA website---you should be able to judge the fruits of our labour soon. My current involvement with the SIPTA website is my main reason for standing for the office of Executive Editor (and that of at-large member). If elected, I will gladly do my part to keep the SIPTA website in pristine shape and up to date. The Executive Editor is also responsible for the SIPTA mailing list, and I think it would be an improvement to implement categories (e.g., SIPTA events, discussion, non-SIPTA events, ...), and then let each subscriber choose which categories (s)he wants to subscribe to.
+
+Besides this commitment to the website and the mailing list, I hope to (i) represent the voice of the not-so-senior members of our community in the Executive Committee, (ii) make more researchers aware of our community, and (iii) "keep SIPTA great".
+
+Hector Diego Estrada Lugo
+-------------------------
+
+Position: At-Large
+
+My name is Hector Diego Estrada Lugo and I am a final year PhD student at the Institute of Risk and Uncertainty. My research has been focused on the application of Credal Networks to risk and resilience assessment of complex engineering systems. My interests reside in developing ways that enhance the applicability of the theory of imprecise probabilities to solve real-world problems. I would be deeply honoured to be part of the SIPTA as at-large member and be able to support the society at the best of my capacities. I consider that my experience in organizing local dissemination events as well as supporting in the organization of an international workshop can be useful for the SIPTA community.
+
+Ryan Martin
+-----------
+
+Position: At-Large
+
+I'm relatively new to SIPTA, but I've been working on imprecise probability applied to statistics problems for a number of years, mostly unaware of the developments being made by SIPTA and its members.  So I was excited when I recently learned about all the interesting work being done by this community, and to meet so many new and wonderful people.  SIPTA and its members have been incredibly welcoming to me, so I would be delighted to have an opportunity to give back.  In particular, my goal is to help advance SIPTA's mission and membership through my research efforts, through my connections to the statistical community, especially in the United States, and through my general efforts and guidance as an at-large member of the SIPTA executive committee.
+
+Enrique Miranda
+---------------
+
+Position: Secretary, At-Large
+
+http://bellman.ciencias.uniovi.es/~emiranda
+
+I have been a member of the  SIPTA Executive Committee in various positions since 2009 and been actively involved in the organization of some past activities, such as the SIPTA schools in 2006 and 2018, the ISIPTA Conference in 2015 as well as the upcoming ISIPTA in Granada. I believe that the outgoing Executive Committee has done a very nice work both in the internal affairs of the society and the promotion of imprecise probabilities, and I would like to continue supporting this work in the upcoming period.
+
+Nawapon Nakharutai
+------------------
+
+Position: At-Large
+
+I am Nawapon Nakharutai, a lecturer in Department of Statistics, Faculty of Science, Chiang Mai University, Thailand. I would like to stand as an at-large member of SIPTA. 
+
+As a former PhD from Department of Mathematical Sciences at Durham University (2015-2019), I had many opportunities to participate in several conferences, summer schools and workshops organised by SIPTA. During that time, I have gained a lot of friends who share similar research topics and also knowledge which are very valuable to my career path. The experience of uncertainty that I met is certain to shape my research areas. 
+
+I am excited for the opportunity to be a part of the Executive Committee of SIPTA. I would like to be one that can carry on these wonderful activities. If I am elected, I believe that I can support and contribute to all tasks in order to keep those activities running smoothly as they usually were. In addition, I will distribute many aspects of imprecise probability to academics in my country. I believe that there is more to uncertainty than they expect.
+
+Lastly, even though I might be young and live quite far away from most people in SIPTA (where most of them are in Europe), I can adjust my time zone and work hard to make sure that I could meet the requirements for SIPTA.
+
+Ullrika Sahlin
+--------------
+
+Position: At-Large
+
+http://www.cec.lu.se/ullrika-sahlin
+
+I have a PhD in Ecology and under graduate educations in both Mathematics and Forestry. My field of research is Environmental Science, where I focus on the treatment of uncertainty in risk assessment and environmental decision making. I work on promoting Bayesian analysis and am currently working on using  imprecise probabilities to account for weaknesses in the knowledge supporting risk assessment.
+
+Erik Quaeghebeur
+----------------
+
+Position: Executive Editor, At-Large
+
+(No statement received.)
