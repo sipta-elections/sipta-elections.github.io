@@ -1,1 +1,1 @@
-# sipta-elections-2021
+# https://tathagatabasu.github.io/sipta-elections-2021/
